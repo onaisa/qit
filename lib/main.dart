@@ -9,7 +9,7 @@ import 'package:qittestonaisa/get_it_.dart/my_get_it_objects.dart';
 import 'package:qittestonaisa/rout/rout.dart';
 
 void main() async {
-  // WidgetsFlutterBinding.ensureInitialized();
+ 
   FlurRout.setupRout();
   setup();
 
